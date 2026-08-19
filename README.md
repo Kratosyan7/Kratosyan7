@@ -7,4 +7,4 @@
 - **Mail** [**ashotmirzoan@gmail.com**](mailto:ashotmirzoan@gmail.com)
 - **Codeforces** [**Kratosyan**](https://codeforces.com/profile/Kratosyan)
 - **Kaggle** [**Kratosyan**](https://www.kaggle.com/kratosyan)
-- **LinkedInn** [**Ashot Mirzoyan**]()
+- **LinkedIn** [**Ashot Mirzoyan**]()

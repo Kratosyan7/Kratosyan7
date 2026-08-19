@@ -1,7 +1,7 @@
 <h1 align=center> Hi there my name is Ashot 👋
 
 ### *- I’m student currently learning **ML**, **Math**  in **RTU MIREA**
-![Paint](Paul_Cézanne_-_Mont_Sainte-Victoire_and_the_Viaduct_of_the_Arc_River_Valley_(Metropolitan_Museum_of_Art).jpg)
+![Paint](Last_Supper.jpg)
 ### Contacts and Links
 - **Telegram** [**@kratosyan**](https://t.me/kratosyan)
 - **Mail** [**ashotmirzoan@gmail.com**](mailto:ashotmirzoan@gmail.com)

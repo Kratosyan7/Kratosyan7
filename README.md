@@ -1,7 +1,7 @@
 <h1 align=center> Hi there my name is Ashot 👋
 
 ### *- I’m student currently learning **ML**, **Math**  in **RTU MIREA**
-![Paint](Last_Supper.jpg)
+![Paint](rocky.jpg)
 ### Contacts and Links
 - **Telegram** [**@kratosyan**](https://t.me/kratosyan)
 - **Mail** [**ashotmirzoan@gmail.com**](mailto:ashotmirzoan@gmail.com)
